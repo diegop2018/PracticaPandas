@@ -144,7 +144,7 @@ project_name/
 
 3. Create a virtual environment:
    ```bash
-   python -m venv .venv
+   py -m venv .venv
    source .venv\Scripts\activate
    setup   # On Windows: venv\Scripts\activate
    ```
